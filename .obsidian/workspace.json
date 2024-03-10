@@ -1,0 +1,179 @@
+{
+  "main": {
+    "id": "326d99620075b06f",
+    "type": "split",
+    "children": [
+      {
+        "id": "22d8112fb235ac97",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3ab9c86ed2af0293",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "index.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "12b320196342a41e",
+    "type": "split",
+    "children": [
+      {
+        "id": "c6e0bbb47134f361",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2063f1ff82a9b58e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "9bd4f39782768514",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a70ac56084d9f8c4",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "0ba6c20574993675",
+    "type": "split",
+    "children": [
+      {
+        "id": "da3d97dd331d0c9e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3d603b30e729f787",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "index.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4e2f0c02a48510de",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "index.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "59759fafa4a1f0b1",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "e2e1b5c8175154df",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "index.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "3ab9c86ed2af0293",
+  "lastOpenFiles": [
+    "output/J1/Thermodynamik/Schmelz- und Verdampungsenthalpie.html",
+    "output/J1/Thermodynamik/Innere Energie.html",
+    "output/J1/Thermodynamik/Entropie.html",
+    "output/J1/Thermodynamik/Energetik.html",
+    "output/J1/Thermodynamik/Bildungs- und Reaktionsenthalpie.html",
+    "output/J1/Säure-Base Reaktionen/Säure-Base-Reaktion.html",
+    "output/J1/Säure-Base Reaktionen/pks-pkb.html",
+    "output/J1/Säure-Base Reaktionen/pH Wert.html",
+    "output/J1/Metastabile Systeme/Spontane Vorgänge.html",
+    "output/J1/Metastabile Systeme/Methastabile Systeme.html",
+    "output/J1/Metastabile Systeme/Chemisches Gleichgewicht.html",
+    "J1/Thermodynamik/Energetik.md",
+    "index.md",
+    "J1/Thermodynamik/Entropie.md",
+    "J1/Formeln.md",
+    "J1/Säure-Base Reaktionen/pH Wert.md",
+    "J1/Säure-Base Reaktionen/Säure-Base-Reaktion.md",
+    "J1/Säure-Base Reaktionen/pks-pkb.md",
+    "J1/Metastabile Systeme/Spontane Vorgänge.md",
+    "J1/Extra/Massenwirkungsgesetz.md",
+    "J1/Extra/Bildung und Spaltung eines Esters.md",
+    "J1/Extra/Reaktionsgeschwindigkeit.md",
+    "J1/Extra/Katalysator.md",
+    "J1/Thermodynamik/Bildungs- und Reaktionsenthalpie.md",
+    "J1/Thermodynamik/Schmelz- und Verdampungsenthalpie.md",
+    "J1/Thermodynamik/Innere Energie.md",
+    "Unicode List.md"
+  ]
+}
