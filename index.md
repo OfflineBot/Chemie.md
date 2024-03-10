@@ -5,12 +5,15 @@
 - [[Kalorimeter]]
 - [[Katalysator]]
 - [[Reaktionsgeschwindigkeit]]
+- [[Aktivierungsenergie]]
 - [[Bildung und Spaltung eines Esters]]
 - [[Massenwirkungsgesetz]]
 
 
 # J1
 ## Thermodynamik
+- [[Endotherm]]
+- [[Exotherm]]
 - [[Energetik]]
 - [[Innere Energie]]
 - [[Schmelz- und Verdampungsenthalpie]]
@@ -24,5 +27,6 @@
 
 ## Säure-Base
 - [[pH Wert]]
-- [[pks-pkb]]
+- [[pKs-pKb]]
 - [[Säure-Base-Reaktion]]
+- [[Puffer]]
