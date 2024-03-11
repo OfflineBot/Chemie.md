@@ -1,12 +1,10 @@
 
 ## Reaktionsenthalpien berechnen
-
 V(a) A + V(b) B → V(c)C + V(d) D            V(x) = stöchiometrischer Koeffizient
 $\Delta$<sub>R</sub>H = $\Sigma$ H<sub>Produkte</sub> - $\Sigma$ H<sub>Edukte</sub> 
 
 
 ## Standardreaktionsenthalpie
-
 Um Reaktionenthalpien besser vergleichen zu können hat man die <u>molare Standardreaktionsenthalpie</u> eingeführt: $\Delta$<sub>R</sub>H°
 
 Standardbedingungen = <span style="color:red;">25°C bzw. 298K | 1013mBar</span>

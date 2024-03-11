@@ -1,6 +1,5 @@
 
 ## 2. Hauptsatz der Thermodynamik
-
 Entropie ist der 2. Hauptsatz der Thermodynamik:
 **Die Gesamtentropie eines Systems und seiner Umgebung kann nicht abnehmen. Sie bleibt entweder gleich (ideal reversibler Verlauf) oder nimmt zu (tatsächlicher Ablauf in Natur und Technik).
 Die Entropie ist das Maß der Unordnung.**
@@ -12,7 +11,6 @@ $\Delta$S = $\frac{Q}{T}$
 
 
 ## 3. Hauptsatz der Thermodynamik
-
 Gibt ein System wärme ab, verringert sich seine Entropie. 
 Am absoluten Nullpunkt **t = 0K = -273.15°C** ist die Entropie eines ideal kristallisierten Reinstoff 0.
 
