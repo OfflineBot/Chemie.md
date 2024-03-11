@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "J1/Säure-Base Reaktionen/Puffer.md",
+                "file": "J1/Formeln.md",
                 "mode": "source",
                 "source": false
               }
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "J1/Säure-Base Reaktionen/Puffer.md",
+                "file": "J1/Formeln.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "J1/Säure-Base Reaktionen/Puffer.md",
+                "file": "J1/Formeln.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "J1/Säure-Base Reaktionen/Puffer.md"
+                "file": "J1/Formeln.md"
               }
             }
           }
@@ -164,7 +164,10 @@
   },
   "active": "4e8fd91f8d8bcd87",
   "lastOpenFiles": [
+    "J1/Säure-Base Reaktionen/pks-pkb.md",
     "index.md",
+    "J1/Säure-Base Reaktionen/pH Wert.md",
+    "J1/Säure-Base Reaktionen/Puffer.md",
     "todo.md",
     "J1/Extra/Massenwirkungsgesetz.md",
     "J1/Metastabile Systeme/Spontane Vorgänge.md",
@@ -183,9 +186,6 @@
     "J1/Extra/Katalysator.md",
     "J1/Extra/Reaktionsgeschwindigkeit.md",
     "J1/Extra/Kalorimeter.md",
-    "J1/Säure-Base Reaktionen/pH Wert.md",
-    "J1/Säure-Base Reaktionen/Puffer.md",
-    "J1/Säure-Base Reaktionen/pks-pkb.md",
     "J1/Formeln.md",
     "J1/Säure-Base Reaktionen/Säure-Base-Reaktion.md",
     "output/J1/Thermodynamik/Schmelz- und Verdampungsenthalpie.html",

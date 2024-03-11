@@ -13,7 +13,7 @@ K<sub>S</sub> = $\frac{c(A^{-}) * c(H _{3}O ^{+})}{c(HA)}$
 K<sub>B</sub> = $\frac  {c(HB^{+})*c(OH^{-})}{c(B)}$ 
 dafür gilt:
 - K<sub>S</sub> = Säurenkonstante
-- H<sub>3</sub>O<sup>+</sup> = Ammonium-Ionen
+- H<sub>3</sub>O<sup>+</sup> = Hydroxidion
 - A<sup>-</sup> = konjugierte Base
 - HA = schwache Säure
 
