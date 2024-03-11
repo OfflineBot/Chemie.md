@@ -18,8 +18,8 @@ also:
 [[pH Wert|pH]] = 4.76 + lg($\frac{Natriumacetat}{Essigsäure}$) = = 4.76
 
 bei Zugabe von HCl mit 0.1$\frac{mol}{l}$:
-- Ammonium-Ionen = 1$\frac{mol}{l}$ + 0.1$\frac{mol}{l}$ = 1.1$\frac{mol}{l}$
-- Oxonium-Ionen = 1$\frac{mol}{l}$ - 0.1$\frac{mol}{l}$ = 0.9$\frac{mol}{l}$
+- Oxoniumionen = 1$\frac{mol}{l}$ + 0.1$\frac{mol}{l}$ = 1.1$\frac{mol}{l}$
+- Hydroxidion = 1$\frac{mol}{l}$ - 0.1$\frac{mol}{l}$ = 0.9$\frac{mol}{l}$
 
 also:
 [[pH Wert|pH]] = 4.76 + lg($\frac{0.9}{1.1}$) = 4.67

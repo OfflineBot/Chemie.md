@@ -12,8 +12,7 @@
 
 # J1
 ## Thermodynamik
-- [[Endotherm]]
-- [[Exotherm]]
+- [[Endotherm und Exotherm|Endotherm und Exotherm]]
 - [[Energetik]]
 - [[Innere Energie]]
 - [[Schmelz- und Verdampungsenthalpie]]
@@ -32,7 +31,4 @@
 - [[Puffer]]
 
 
-
-
-
-
+teilweise/ganz unvollständig: [[todo]]
