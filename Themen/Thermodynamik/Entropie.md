@@ -15,9 +15,7 @@ Gibt ein System wärme ab, verringert sich seine Entropie.
 Am absoluten Nullpunkt **t = 0K = -273.15°C** ist die Entropie eines ideal kristallisierten Reinstoff 0.
 
 
-
 ## Reaktionsentropie:
-
 $\Delta$rS°<sub>m</sub> = ( $\Sigma$ v * S°<sub>m</sub>(Produkte) ) - ( $\Sigma$ v * S°<sub>m</sub>(Edukte) )
 
 **Bsp: Herstellung von Wasser**

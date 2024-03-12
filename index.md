@@ -1,8 +1,8 @@
 
-### [[Formeln]]
+### [[formeln|Formeln]]
 
 # Extra:
-- [[Kalorimeter]]
+- [[Kalorimeter|Kalorimeter]]
 - [[Katalysator]]
 - [[Reaktionsgeschwindigkeit]]
 - [[Aktivierungsenergie]]
@@ -12,11 +12,11 @@
 
 ## Thermodynamik
 - [[Endotherm und Exotherm|Endotherm und Exotherm]]
-- [[Energetik]]
+- [[Energetik|Energetik]]
 - [[Innere Energie]]
 - [[Schmelz- und Verdampungsenthalpie]]
 - [[Bildungs- und Reaktionsenthalpie]]
-- [[Entropie]]
+- [[Entropie|Entropie]]
 
 ## Metastabile Systeme
 - [[Spontane Vorgänge]]
