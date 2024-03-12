@@ -4,7 +4,7 @@ Puffersysteme werden benutzt um den [[pH Wert]] auf einem konstanten Wert zu hal
 Dabei gibt man eine schwache Säure und ihre konjugierte Base in ein Verhältnis von 1:1.
 
 Um den [[pH Wert]] eines Puffers zu bestimmen rechnet man:
-[[pH Wert|pH]] = [[pks-pkb|pKs]] + lg($\frac{[A^{-}]}{[HA]}$) 
+[[pH Wert|pH]] = [[pKs und pKb|pKs]] + lg($\frac{[A^{-}]}{[HA]}$) 
 
 
 ## Berechnung:
@@ -12,7 +12,7 @@ Um den [[pH Wert]] eines Puffers zu bestimmen rechnet man:
 ## Beispiel:
 gegeben:
 - Puffer: 1mol Essigsäure mit 1mol Natriumacetat 1 L
-- [[pks-pkb|pKs]]-Wert der Essigsäure = 4.76
+- [[pKs und pKb|pKs]]-Wert der Essigsäure = 4.76
 
 also:
 [[pH Wert|pH]] = 4.76 + lg($\frac{Natriumacetat}{Essigsäure}$) = = 4.76

@@ -1,5 +1,0 @@
-
-## Exergone Reaktion
-
-
-## Endergone Reaktion

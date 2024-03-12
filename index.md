@@ -10,7 +10,6 @@
 - [[Massenwirkungsgesetz]]
 
 
-# J1
 ## Thermodynamik
 - [[Endotherm und Exotherm|Endotherm und Exotherm]]
 - [[Energetik]]
@@ -26,9 +25,16 @@
 
 ## Säure-Base
 - [[pH Wert]]
-- [[pKs-pKb]]
+- [[pKs und pKb]]
 - [[Säure-Base-Reaktion]]
 - [[Puffer]]
 
+## Naturstoffe
+
+## Aromaten
+
+## Kunststoffe
+
+## Elektrochemie
 
 teilweise/ganz unvollständig: [[todo]]
