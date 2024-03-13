@@ -1,8 +1,10 @@
 {
-  "settingsVersion": "1.8.01",
+  "settingsVersion": "1.8.1-2b",
   "makeOfflineCompatible": false,
   "inlineAssets": true,
-  "includePluginCSS": "",
+  "includePluginCSS": [
+    ""
+  ],
   "includeSvelteCSS": true,
   "titleProperty": "title",
   "customHeadContentPath": "",
@@ -11,6 +13,7 @@
   "sidebarWidth": "20em",
   "minOutlineCollapse": 2,
   "startOutlineCollapsed": true,
+  "relativeOutlineLinks": false,
   "allowFoldingHeadings": true,
   "allowFoldingLists": true,
   "allowResizingSidebars": true,
@@ -25,7 +28,7 @@
   "addSearchBar": false,
   "addGraphView": false,
   "addTitle": true,
-  "addRSSFeed": true,
+  "addRSSFeed": false,
   "siteURL": "",
   "authorName": "",
   "vaultTitle": "Chemie.md",
@@ -46,5 +49,14 @@
   "exportPath": "C:\\\\Users\\Flint\\Desktop\\trash",
   "filesToExport": [
     []
+  ],
+  "filePickerBlacklist": [
+    "(^|\\/)node_modules\\/",
+    "(^|\\/)dist\\/",
+    "(^|\\/)dist-ssr\\/",
+    "(^|\\/)\\.vscode\\/"
+  ],
+  "filePickerWhitelist": [
+    "\\.\\w+$"
   ]
 }

@@ -3,10 +3,14 @@
 - $\Delta$<sub>R</sub>H = $\Sigma$ (H<sub>Produkte</sub>)  - $\Sigma$ (H<sub>Edukte</sub>) 
 
 ## [[Reaktionsgeschwindigkeit]]:
+
  - v = $\frac{\Delta n _{Produkt}}{\Delta t}$  \[$\frac{mol}{s}$]
+
  
 <hr>
+
 ## [[Säure-Base-Reaktion|Säure-Basen]]:
+
 allgemein:
 - [[pH Wert|pH]] = -lg(H<sub>3</sub>O<sup>+</sup>) 
 

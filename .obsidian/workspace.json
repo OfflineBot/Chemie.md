@@ -16,12 +16,27 @@
               "state": {
                 "file": "index.md",
                 "mode": "source",
+                "backlinks": true,
                 "source": false
               },
               "pinned": true
             }
+          },
+          {
+            "id": "c67674b9a4ff7c58",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Formeln.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -87,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Themen/Formeln.md",
+                "file": "Formeln.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Themen/Formeln.md",
+                "file": "Formeln.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,12 +142,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Themen/Formeln.md"
+                "file": "Formeln.md"
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -140,6 +155,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian42-brat:BRAT": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -149,60 +165,25 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "floating": {
-    "id": "be658f7a1f390452",
-    "type": "floating",
-    "children": [
-      {
-        "id": "f11511c3dee8048e",
-        "type": "window",
-        "children": [
-          {
-            "id": "4f4ec67c115ec1cb",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "501ee2fc183e1a48",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Themen/Formeln.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 231,
-        "y": 223,
-        "width": 901,
-        "height": 501,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "501ee2fc183e1a48",
+  "active": "c67674b9a4ff7c58",
   "lastOpenFiles": [
+    "Themen/Säure-Base Reaktionen/Säure-Basen Liste.md",
+    "index.md",
+    "Themen/Säure-Base Reaktionen/pKs und pKb.md",
+    "Untitled.md",
+    "Themen/Extra/Massenwirkungsgesetz.md",
     "Themen/Thermodynamik/Schmelz- und Verdampungsenthalpie.md",
     "Themen/Thermodynamik/Innere Energie.md",
     "Themen/Thermodynamik/Entropie.md",
     "Themen/Thermodynamik/Energetik.md",
     "Themen/Thermodynamik/Bildungs- und Reaktionsenthalpie.md",
     "Themen/Säure-Base Reaktionen/Puffer.md",
-    "Themen/Säure-Base Reaktionen/pKs und pKb.md",
     "Themen/Säure-Base Reaktionen/pH Wert.md",
     "Themen/Metastabile Systeme/Spontane Vorgänge.md",
     "Themen/Metastabile Systeme/Chemisches Gleichgewicht.md",
     "Themen/Extra/Reaktionsgeschwindigkeit.md",
-    "Themen/Extra/Massenwirkungsgesetz.md",
     "Themen/Extra/Kalorimeter.md",
     "Themen/Extra/Aktivierungsenergie.md",
-    "index.md",
     "Unicode List.md",
     "Themen/Formeln.md",
     "todo.md",
@@ -221,7 +202,6 @@
     "Themen/Säure-Base Reaktionen/Säure-Base-Reaktion.md",
     "Themen/Thermodynamik/Endotherm und Exotherm.md",
     "J1/Thermodynamik/Exotherm.md",
-    "Themen/Extra/Katalysator.md",
-    "J1/Säure-Base Reaktionen/pKs-pKb.md"
+    "Themen/Extra/Katalysator.md"
   ]
 }
