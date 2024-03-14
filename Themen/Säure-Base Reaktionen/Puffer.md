@@ -3,11 +3,14 @@
 Puffersysteme werden benutzt um den [[pH Wert]] auf einem konstanten Wert zu halten.
 Dabei gibt man eine schwache Säure und ihre konjugierte Base in ein Verhältnis von 1:1.
 
-Um den [[pH Wert]] eines Puffers zu bestimmen rechnet man:
-[[pH Wert|pH]] = [[pKs und pKb|pKs]] + lg($\frac{[A^{-}]}{[HA]}$) 
-
+Pufferwirkung am optimalsten: [[pH Wert|pH]] = [[pKs und pKb|pKs]] +/- 1
+Pufferkapazität: 
+- Stoffmenge an $H_{3}O^{+}$ die hinzugegeben werden muss, um den [[pH Wert]] um 1 zu verringern.
+- Stoffmenge an $OH^{-}$ die hinzugegeben werden muss, um den [[pH Wert]] um 1 zu vergrößern.
 
 ## Berechnung:
+[[pH Wert|pH]] = [[pKs und pKb|pKs]] + lg($\frac{[A^{-}]}{[HA]}$) 
+
 
 ## Beispiel:
 gegeben:

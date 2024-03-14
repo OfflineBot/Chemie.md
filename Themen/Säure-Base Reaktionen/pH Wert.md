@@ -11,18 +11,12 @@ Um die stärke der jeweiligen Säure/Base zu bestimmen gibt es den [[pKs und pKb
 
 
 ## Berechnung:
-- K<sub>s</sub> = Säurekonstante
-- A<sup>-</sup> = konjugierte Base \[$\frac{mol}{l}$]
-- HA = Säure \[$\frac{mol}{l}$]
+<u>starke Säuren</u>: 
+pH = -lg($[c(H_{3}O^{+})]$) = -lg($[c_{0}(HAc)]$)
+<u>schwache Säuren</u>:
+pH = $\frac{1}{2}$ ([[pKs und pKb|pKs]] - lg($[c_{0}(HAc)]$) 
 
-K<sub>s</sub> = $\frac{[H_{3}O^{+}][A^{-}]}{[HA]}$  | nach H<sub>3</sub>O<sup>+</sup>  auflösen
-H<sub>3</sub>O<sup>+</sup> = $\frac{K _{s} * [HA]} {[A ^{-}]}$ | -lg
-
-weil:
-- -lg(K<sub>s</sub>) = [[pKs und pKb|pKs]]
-- -lg(H<sub>3</sub>O<sup>+</sup>) = pH
-- -lg($\frac{[HA]}{[A^{-}]}$) = lg($\frac{[A^{-}]}{[HA]}$)
-=> pH = [[pKs und pKb|pKs]] + lg($\frac{[A^{-}]}{[HA]}$)
-
-
-## Beispiel:
+<u>starke Basen</u>:
+pOH = -lg($[c_{0}(OH^{-})]$) -> pH = 14 - pOH
+<u>schwache Basen</u>:
+pOH = $\frac {1} {2}$ ([[pKs und pKb|pKb]] - lg($[c(Ac)]$)) -> pH = 14 - pOH
