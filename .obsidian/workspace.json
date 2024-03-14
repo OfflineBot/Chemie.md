@@ -28,7 +28,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Themen/Säure-Base Reaktionen/pH Wert.md",
+                "file": "Themen/Säure-Base Reaktionen/Säure-Basen Liste.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,8 +86,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "0ba6c20574993675",
@@ -103,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Themen/Säure-Base Reaktionen/pH Wert.md",
+                "file": "Themen/Säure-Base Reaktionen/Säure-Basen Liste.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Themen/Säure-Base Reaktionen/pH Wert.md",
+                "file": "Themen/Säure-Base Reaktionen/Säure-Basen Liste.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Themen/Säure-Base Reaktionen/pH Wert.md"
+                "file": "Themen/Säure-Base Reaktionen/Säure-Basen Liste.md"
               }
             }
           }
@@ -169,15 +168,13 @@
   },
   "active": "35181b43a856a7a3",
   "lastOpenFiles": [
-    "Themen/Säure-Base Reaktionen/Puffer.md",
-    "index.md",
+    "Themen/Säure-Base Reaktionen/pH Wert.md",
     "Themen/Extra/Bildung und Spaltung eines Esters.md",
     "Themen/Thermodynamik/Schmelz- und Verdampungsenthalpie.md",
     "Themen/Thermodynamik/Bildungs- und Reaktionsenthalpie.md",
     "Themen/Thermodynamik/Innere Energie.md",
     "Themen/Metastabile Systeme/Chemisches Gleichgewicht.md",
     "Themen/Säure-Base Reaktionen/pKs und pKb.md",
-    "Themen/Säure-Base Reaktionen/pH Wert.md",
     "Themen/Säure-Base Reaktionen/Säure-Base-Reaktion.md",
     "todo.md",
     "Formeln.md",
@@ -189,6 +186,8 @@
     "Themen/Extra/Aktivierungsenergie.md",
     "Themen/Thermodynamik/Energetik.md",
     "Themen/Metastabile Systeme/Spontane Vorgänge.md",
+    "Themen/Säure-Base Reaktionen/Puffer.md",
+    "index.md",
     "Themen/Thermodynamik/Endotherm und Exotherm.md",
     "Themen/Extra/Katalysator.md",
     "Unicode List.md",

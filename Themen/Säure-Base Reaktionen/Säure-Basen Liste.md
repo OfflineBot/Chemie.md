@@ -18,4 +18,4 @@
 |                     |               | Carbonation           | $CO_{3}^{2-}$     |
 | Phosphatsäure       | $H_{3}PO_{4}$ | Dihydrogenphosphation | $H_{2}PO_{4}^{-}$ |
 |                     |               | Hydrogenphosphation   | $HPO_{4}^{2-}$    |
-|                     |               | Phosphation           | $PO_{4}^{2-}$     |
+|                     |               | Phosphation           | $PO_{4}^{3-}$     |
