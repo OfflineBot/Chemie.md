@@ -30,8 +30,12 @@ Die innere Energie ist eine extensive Größe die von der Stoffmenge abhängig i
 Die Gesamtenergie eines Systems und seine Umgebung kann weder <u>zu</u>, noch <u>abnehmen</u>. 
 (1. Hauptsatz der Thermodynamik).
 
-[[Endotherm und Exotherm|exotherme]] Reaktion     Q<sub>r</sub> < 0      (-E)
-[[Endotherm und Exotherm|endotherme]] Reaktion  Q<sub>r</sub> > 0      (+E)
+[[Endotherm und Exotherm|exotherme]] Reaktion     $Q_{r} < 0$      (-E)
+[[Endotherm und Exotherm|endotherme]] Reaktion  $Q_{r} > 0$      (+E)
+
+Um $Q_{r}$ bestimmen zu können, begrenzt man die Umgebung künstlich  auf einen definierten Raum. Dieser muss isoliert sein. Solche "Systeme" sind [[Kalorimeter]]. Vernachlässigt werden:
+- Reaktionswärme die im geschlossenen System bleibt
+- Wärmeverlust durch den Deckel es [[Kalorimeter|Kalorimeters]].
 
 Je nach Reaktionstyp unterscheidet man: 
 - Verbrennungswärme

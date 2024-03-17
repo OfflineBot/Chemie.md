@@ -1,5 +1,9 @@
 
-### [[Formeln|Formeln]]
+# Sonstige:
+- [[Formeln|Formeln]]
+- [[Säure-Basen Liste]]
+- [[Wichtige Stoffe]]
+
 
 # Extra:
 - [[Kalorimeter|Kalorimeter]]
@@ -18,10 +22,12 @@
 - [[Bildungs- und Reaktionsenthalpie]]
 - [[Entropie|Entropie]]
 
+
 ## Metastabile Systeme
 - [[Spontane Vorgänge]]
-- [[Methastabile Systeme]]
+- [[Metastabile Systeme]]
 - [[Chemisches Gleichgewicht]]
+
 
 ## Säure-Base
 - [[Säure-Basen Liste]]
@@ -30,6 +36,7 @@
 - [[Säure-Base-Reaktion]]
 - [[Puffer]]
 
+
 ## Naturstoffe
 
 ## Aromaten
@@ -37,5 +44,3 @@
 ## Kunststoffe
 
 ## Elektrochemie
-
-teilweise/ganz unvollständig: [[todo]]
