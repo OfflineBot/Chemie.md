@@ -48,7 +48,9 @@
   "defaultMediaIcon": "lucide//file-image",
   "exportPath": "C:\\Users\\Flint\\Desktop\\trash",
   "filesToExport": [
-    []
+    [
+      "all"
+    ]
   ],
   "filePickerBlacklist": [
     "(^|\\/)node_modules\\/",
