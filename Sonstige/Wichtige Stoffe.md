@@ -1,21 +1,11 @@
 
 
-| Säure               | Formel        | Base                  | Formel            |
-| ------------------- | ------------- | --------------------- | ----------------- |
-| Chlorwasserstoff    | $HCl$         | Chloridion            | $Cl^{-}$          |
-| Perchlorsäure       | $HClO_{4}$    | Perchloration         | $ClO_{4}^{-}$     |
-| Ameisensäure        | $HCOOH$       | Formiation            | $HCOO^{-}$        |
-| Bromwasserstoff     | $HBr$         | Bromidion             | $Br^{-}$          |
-| Salpetersäure       | $HNO_{3}$     | Nitration             | $NO_{3}^{-}$      |
-| Essigsäure          | $CH_{3}COOH$  | Acetation             | $CH_{3}COO^{-}$   |
-| Schwefelwasserstoff | $H_{2}S$      | Hydrogensulfidion     | $HS^{-}$          |
-|                     |               | Sulfidion             | $S^{2-}$          |
-| Schwefelige Säure   | $H_{2}SO_{3}$ | Hydrogensulfition     | $HSO_{3}^{-}$     |
-|                     |               | Sulfition             | $SO_{3}^{2-}$     |
-| Schwefelsäure       | $H_{2}SO_{4}$ | Hydrogensulfation     | $HSO_{4}^{-}$     |
-|                     |               | Sulfation             | $SO_{4}^{2-}$     |
-| Kohlensäure         | $H_{2}CO_{3}$ | Hydrogencarbonation   | $HCO_{3}^{-}$     |
-|                     |               | Carbonation           | $CO_{3}^{2-}$     |
-| Phosphatsäure       | $H_{3}PO_{4}$ | Dihydrogenphosphation | $H_{2}PO_{4}^{-}$ |
-|                     |               | Hydrogenphosphation   | $HPO_{4}^{2-}$    |
-|                     |               | Phosphation           | $PO_{4}^{3-}$     |
+| Name                         | Formel            |
+| ---------------------------- | ----------------- |
+| Essigsäure                   | $HC_{3}COOH$      |
+| Ammoniak                     | $NH_{3}$          |
+| Ammoniumchlorid              | $NH_{4}Cl$        |
+| Chlorwasserstoff (Salzsäure) | $HCl$             |
+| Oxoniumionen                 | $H_{3}O^{+}$      |
+| Hydroxidion                  | $OH^{-}$          |
+| Citronensäure                | $C_{6}H_{8}O_{7}$ |
