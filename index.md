@@ -2,6 +2,7 @@
 # Sonstige:
 - [[Formeln|Formeln]]
 - [[Säure-Basen Liste]]
+- [[Indikatoren]]
 - [[Wichtige Stoffe]]
 
 

@@ -34,9 +34,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "3defcd92940dc581",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Themen/Säure-Base Reaktionen/Wichtige Begriffe.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -102,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Themen/Säure-Base Reaktionen/Säure-Base-Titration.md",
+                "file": "Themen/Säure-Base Reaktionen/Wichtige Begriffe.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Themen/Säure-Base Reaktionen/Säure-Base-Titration.md",
+                "file": "Themen/Säure-Base Reaktionen/Wichtige Begriffe.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Themen/Säure-Base Reaktionen/Säure-Base-Titration.md"
+                "file": "Themen/Säure-Base Reaktionen/Wichtige Begriffe.md"
               }
             }
           }
@@ -166,10 +179,21 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "152e8e645545071a",
+  "active": "3defcd92940dc581",
   "lastOpenFiles": [
-    "Themen/Säure-Base Reaktionen/Puffer.md",
     "Themen/Säure-Base Reaktionen/Säure-Base-Titration.md",
+    "Themen/Säure-Base Reaktionen/Wichtige Begriffe.md",
+    "conflict-files-obsidian-git.md",
+    "Sonstige/Indikatoren.md",
+    "Data/Images/Indikatoren/Thymolblau.png",
+    "Data/Images/Indikatoren/Skala.png",
+    "Data/Images/Indikatoren/Phenolphtalein.png",
+    "Data/Images/Indikatoren/Methylrot.png",
+    "Data/Images/Indikatoren/Bromthymolblau.png",
+    "Data/Images/Indikatoren",
+    "Data/Images",
+    "Data",
+    "Themen/Säure-Base Reaktionen/Puffer.md",
     "Themen/Säure-Base Reaktionen/Säure-Base-Reaktion.md",
     "Themen/Säure-Base Reaktionen/pH Wert.md",
     "Sonstige/Formeln.md",
@@ -191,18 +215,12 @@
     "Sonstige/Wichtige Stoffe.md",
     "index.md",
     "Unicode List.md",
-    "todo.md",
     "Sonstige",
-    "Themen/Thermodynamik/Enthalpie.md",
-    "Themen/Thermodynamik/Endotherm und Exotherm.md",
     "output/Themen/Thermodynamik/Schmelz- und Verdampungsenthalpie.html",
     "output/Themen/Thermodynamik/Innere Energie.html",
     "output/Themen/Extra/Massenwirkungsgesetz.html",
     "output/Themen/Extra/Katalysator.html",
     "output/Themen/Extra/Kalorimeter.html",
-    "output/Themen/Extra/Bildung und Spaltung eines Esters.html",
-    "output/Themen/Extra/Aktivierungsenergie.html",
-    "output/Themen/Formeln.html",
-    "output/Unicode List.html"
+    "output/Themen/Extra/Bildung und Spaltung eines Esters.html"
   ]
 }

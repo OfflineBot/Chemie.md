@@ -15,5 +15,5 @@ RGT-Regel: Bei einer Temperaturerhöhung von 19K verdoppelt bis vervierfacht sic
 ## Berechnung:
 $v = \frac{\Delta n _{Produkt}}{\Delta t}  [\frac{mol}{s}]$
 oder:
-$v = \frac {|c_{2} - c_{1}} {t_{2}-t_{1}} = \frac {|\Delta c|} {\Delta t}$
+$v = \frac {|c_{2} - c_{1}|} {t_{2}-t_{1}} = \frac {|\Delta c|} {\Delta t}$
 

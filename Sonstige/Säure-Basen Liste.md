@@ -14,7 +14,7 @@
 |                     |               | Sulfition             | $SO_{3}^{2-}$     |
 | Schwefelsäure       | $H_{2}SO_{4}$ | Hydrogensulfation     | $HSO_{4}^{-}$     |
 |                     |               | Sulfation             | $SO_{4}^{2-}$     |
-| Kohlensäure         | $H_{2}SO_{3}$ | Hydrogencarbonation   | $HCO_{3}^{-}$     |
+| Kohlensäure         | $H_{2}CO_{3}$ | Hydrogencarbonation   | $HCO_{3}^{-}$     |
 |                     |               | Carbonation           | $CO_{3}^{2-}$     |
 | Phosphatsäure       | $H_{3}PO_{4}$ | Dihydrogenphosphation | $H_{2}PO_{4}^{-}$ |
 |                     |               | Hydrogenphosphation   | $HPO_{4}^{2-}$    |
