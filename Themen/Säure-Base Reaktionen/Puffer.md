@@ -8,6 +8,7 @@ Pufferkapazität:
 - Stoffmenge an $H_{3}O^{+}$ die hinzugegeben werden muss, um den [[pH Wert]] um 1 zu verringern.
 - Stoffmenge an $OH^{-}$ die hinzugegeben werden muss, um den [[pH Wert]] um 1 zu vergrößern.
 
+
 ## Berechnung:
 [[pH Wert|pH]] = [[pKs und pKb|pKs]] + lg($\frac{[A^{-}]}{[HA]}$) 
 
