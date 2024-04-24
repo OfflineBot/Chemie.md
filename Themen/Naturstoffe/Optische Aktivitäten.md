@@ -8,6 +8,7 @@
 
 ## Enantiomerie
 - besitzt keine Symmetrieebene
+- können durch Drehung nicht zur Deckung gebracht werden
 
 ## Diastereomere
 - Isomere die keine Enantiomere sind
