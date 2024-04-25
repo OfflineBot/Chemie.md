@@ -28,7 +28,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Themen/Naturstoffe/Optische Aktivitäten.md",
+                "file": "Themen/Naturstoffe/Begriffe.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,8 +86,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "0ba6c20574993675",
@@ -103,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Themen/Naturstoffe/Optische Aktivitäten.md",
+                "file": "Themen/Naturstoffe/Begriffe.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Themen/Naturstoffe/Optische Aktivitäten.md",
+                "file": "Themen/Naturstoffe/Begriffe.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Themen/Naturstoffe/Optische Aktivitäten.md"
+                "file": "Themen/Naturstoffe/Begriffe.md"
               }
             }
           }
@@ -169,8 +168,9 @@
   },
   "active": "3e994ee11454a13f",
   "lastOpenFiles": [
-    "Themen/Naturstoffe/Kohlenhydrate.md",
     "Themen/Naturstoffe/Optische Aktivitäten.md",
+    "Themen/Naturstoffe/Begriffe.md",
+    "Themen/Naturstoffe/Kohlenhydrate.md",
     "Sonstige/Isomerien.md",
     "Sonstige/Fischerprojektionen.md",
     "index.md",
@@ -203,7 +203,6 @@
     "Themen/Extra/Kalorimeter.md",
     "Themen/Extra/Reaktionsgeschwindigkeit.md",
     "Themen/Extra/Aktivierungsenergie.md",
-    "Themen/Thermodynamik/Energetik.md",
     "Sonstige",
     "output/Themen/Thermodynamik/Schmelz- und Verdampungsenthalpie.html",
     "output/Themen/Thermodynamik/Innere Energie.html",

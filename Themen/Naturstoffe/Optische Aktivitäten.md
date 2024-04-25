@@ -1,14 +1,13 @@
-## Chiralität
-
 
 ## Chiralität
-- Optisch "aktiv"
 - wenn Spiegelbild nicht decken lässt
 - achial, wenn Spiegelbild decken lässt
+- wenn Stoff gespiegelt wird aber nicht der selbe ist
+- Eigenschaft eines Stoffes
 
 ## Enantiomerie
-- besitzt keine Symmetrieebene
-- können durch Drehung nicht zur Deckung gebracht werden
+- Stoffbezeichnung wenn Stoff Chiral ist
 
 ## Diastereomere
 - Isomere die keine Enantiomere sind
+- Stereoisomere: Mehr als 2 Enantiomere
