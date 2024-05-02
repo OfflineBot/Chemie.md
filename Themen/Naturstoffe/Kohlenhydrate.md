@@ -21,4 +21,4 @@ Kohlenhydrate enden auf -ose.
 		- Fructose
 		- Polyhydroxyketone
 	
-		=> sie sind das Produkt der partiellen Oxidation mehrwertiger Alkohole.
+		=> sie sind das Produkt der partiellen Oxidation mehrwertiger Alkohole

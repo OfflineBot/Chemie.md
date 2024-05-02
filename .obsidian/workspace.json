@@ -28,7 +28,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Themen/Naturstoffe/Kohlenhydrate.md",
+                "file": "Themen/Naturstoffe/Begriffe.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -102,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Themen/Naturstoffe/Kohlenhydrate.md",
+                "file": "Themen/Naturstoffe/Begriffe.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Themen/Naturstoffe/Kohlenhydrate.md",
+                "file": "Themen/Naturstoffe/Begriffe.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Themen/Naturstoffe/Kohlenhydrate.md"
+                "file": "Themen/Naturstoffe/Begriffe.md"
               }
             }
           }
@@ -156,6 +156,8 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "webpage-html-export:Export Vault to HTML": false,
+      "obsidian42-brat:BRAT": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -166,8 +168,8 @@
   },
   "active": "3e994ee11454a13f",
   "lastOpenFiles": [
-    "Themen/Naturstoffe/Einteilung der Kohlenhydrate.md",
     "Themen/Naturstoffe/Kohlenhydrate.md",
+    "Themen/Naturstoffe/Einteilung der Kohlenhydrate.md",
     "index.md",
     "Themen/Naturstoffe/Begriffe.md",
     "Themen/Naturstoffe/Optische Aktivitäten.md",
