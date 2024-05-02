@@ -1,6 +1,5 @@
 
-TODO!
-### Isomere:
+### Isomerie:
 ### Konstitutionsisomere:
 ### Stereoisomere:
 ### Enontionmere:
